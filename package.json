@@ -1,0 +1,12 @@
+{
+  "name": "oracle-test",
+  "version": "0.0.1",
+  "description": "Tests of Oracle Database driver by Oracle Corp.",
+  "dependencies": {
+    "oracledb": "^0.4.2"
+  },
+  "engines": {
+    "node": ">=0.10.28 <0.11"
+  },
+  "engineStrict": true
+}
